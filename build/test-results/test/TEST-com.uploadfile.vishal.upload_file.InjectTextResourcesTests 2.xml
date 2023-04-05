@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.uploadfile.vishal.upload_file.InjectTextResourcesTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-04-04T11:40:59" hostname="Vishals-MacBook-Air.local" time="0.689">
+  <properties/>
+  <testcase name="testFile()" classname="com.uploadfile.vishal.upload_file.InjectTextResourcesTests" time="0.659"/>
+  <testcase name="testFileFound()" classname="com.uploadfile.vishal.upload_file.InjectTextResourcesTests" time="0.019"/>
+  <testcase name="fileLimitExceeded()" classname="com.uploadfile.vishal.upload_file.InjectTextResourcesTests" time="0.006"/>
+  <testcase name="testFileNotFound()" classname="com.uploadfile.vishal.upload_file.InjectTextResourcesTests" time="0.002"/>
+  <testcase name="testDownloadFile()" classname="com.uploadfile.vishal.upload_file.InjectTextResourcesTests" time="0.002"/>
+  <system-out><![CDATA[17:11:00.595 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+/download/TestImage.png
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
